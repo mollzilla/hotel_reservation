@@ -1,0 +1,41 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: normal;
+}
+
+.header {
+  padding: 60px 120px;
+}
+
+.params-header {
+  padding: 10px 120px;
+}
+
+.params-form {
+  display: flex;
+  align-items: center;
+}
+
+.country-picker {
+  width: 150px;
+}
+
+.reservar {
+  width: 100%;
+}
+
+.info-paper {
+  padding: 8px;
+  margin: 8px;
+}
+
+.money {
+  font-size: 1.25rem;
+}
+
+.next-to-icon {
+  margin-right: 8px;
+}
